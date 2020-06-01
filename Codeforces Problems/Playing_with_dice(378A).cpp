@@ -21,4 +21,5 @@ int main()
         }
     }
     cout << a_wins<<" "<< draw<<" "<< b_wins;
+    return 0;
 }
